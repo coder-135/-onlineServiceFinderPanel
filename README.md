@@ -6,7 +6,7 @@ It's a full backend source code Panel for service finder app
 
 It needs to be refactored, I will work on it in the future
 
-Persian Documents and postman files exists on Doc Dir
+Persian Documents and postman files exist on Doc Dir
 
 Technologies:
 NodeJS, Express, MongoDB, Redis
